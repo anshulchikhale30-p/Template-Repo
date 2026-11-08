@@ -1,6 +1,15 @@
-###  Addressed Issues:
-<!-- Link the issue this PR addresses -->
-Fixes #(issue number)
+
+### Related Issues / Enhancements
+
+<!-- Link any issue, feature request, or enhancement addressed by this PR. -->
+
+- Fixes #(issue number)
+- Related to #(issue number)
+
+<!--
+Use:
+- Fixes         → Closes the issue automatically after merging.
+- Related to    → Links the issue without closing it.
 
 
 ###  Screenshots/Recordings:
